@@ -9,3 +9,4 @@ def render_footer(name: str, linkedin: str | None = None, github: str | None = N
         parts.append(f"[GitHub]({github})")
     st.divider()
     st.caption(" · ".join(parts))
+    
