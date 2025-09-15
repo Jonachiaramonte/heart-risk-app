@@ -12,5 +12,5 @@ st.write(
     """
 )
 from ui import render_footer
-render_footer("Jona Chiaramonte"), "https://www.linkedin.com/in/JonaChiaramonte", "https://github.com/JonaChiaramonte")
+render_footer("Jona Chiaramonte", "https://www.linkedin.com/in/JonaChiaramonte", "https://github.com/JonaChiaramonte")
 
